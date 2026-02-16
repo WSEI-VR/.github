@@ -4,7 +4,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Dołącz_do_nas-5865F2?logo=discord&logoColor=white)](https://discord.gg/WynVaJMG)
 [![Website](https://img.shields.io/badge/WSEI-Strona_Uczelni-green)](https://wsei.edu.pl/)
-[![Projects](https://img.shields.io/badge/GitHub-Nasze_Projekty-yellow?logo=github)](https://github.com/orgs/WSEI-VR/repositories)
+[![Projects](https://img.shields.io/badge/GitHub-Nasze_Projekty-orange?logo=github)](https://github.com/orgs/WSEI-VR/repositories)
 
 ---
 </div>
