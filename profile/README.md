@@ -11,7 +11,7 @@
 
 ## > Kim jesteśmy?
 Jesteśmy grupą pasjonatów z **WSEI w Krakowie**. Zajmujemy się szeroko pojętą wirtualną (VR) rzeczywistością oraz Game Devem.
-Nie ważne czy kodujesz, modelujesz, czy dopiero chcesz zacząć – znajdziesz tu miejsce dla siebie!
+Nie ważne czy kodujesz, modelujesz, czy dopiero chcesz zacząć - znajdziesz tu miejsce dla siebie!
 
 ## > Nasz Tech Stack
 W naszych projektach najczęściej używamy:
